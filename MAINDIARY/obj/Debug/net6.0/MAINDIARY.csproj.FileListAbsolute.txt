@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\bin\Debug\net6.0\MAINDIARY.exe
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\bin\Debug\net6.0\MAINDIARY.deps.json
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\bin\Debug\net6.0\MAINDIARY.runtimeconfig.json
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\bin\Debug\net6.0\MAINDIARY.dll
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\bin\Debug\net6.0\MAINDIARY.pdb
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.AssemblyInfo.cs
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.dll
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\refint\MAINDIARY.dll
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.pdb
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\MAINDIARY.genruntimeconfig.cache
+C:\Users\1\source\repos\MAINDIARY\MAINDIARY\obj\Debug\net6.0\ref\MAINDIARY.dll
